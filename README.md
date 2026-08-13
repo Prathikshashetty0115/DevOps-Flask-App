@@ -15,6 +15,8 @@ A containerized Flask web application with an automated CI/CD pipeline using Git
 
  🏗️ Architecture
 
+ ![DevOps CI/CD Architecture](architecture.png)
+
 Developer
    ↓
 GitHub
